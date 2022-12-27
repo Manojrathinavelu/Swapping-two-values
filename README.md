@@ -20,14 +20,15 @@ End the program
 ## PROGRAM:
 
 #Program to swap two values.
-#Developed by: 
-#RegisterNumber:
-a=int(input())
+#Developed by: Manoj karthik
+#RegisterNumber: 22003728
+
+```a=int(input())
 b=int(input())
 temp=a
 a=b
 b=temp
-print("Swapped values are:",a,b)
+print("Swapped values are:",a,b)```
 
 ## OUTPUT:
 ![images](./images/swapping%20python.png)
