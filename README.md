@@ -30,7 +30,9 @@ a=b
 b=temp
 print("Swapped values are:",a,b)```
 
+
 ## OUTPUT:
+
 ![images](./images/swapping%20python.png)
 
 
