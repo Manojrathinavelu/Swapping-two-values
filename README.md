@@ -28,7 +28,8 @@ b=int(input())
 temp=a
 a=b
 b=temp
-print("Swapped values are:",a,b)```
+print("Swapped values are:",a,b)
+```
 
 
 ## OUTPUT:
